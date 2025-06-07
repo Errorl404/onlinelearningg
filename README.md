@@ -35,7 +35,6 @@
   - Đăng nhập/đăng xuất
   - Cập nhật thông tin cá nhân
   - Đổi mật khẩu
-- Chi tiết truy cập: [https://hackmd.io/@nndkhoa9/web-online-academy](https://hackmd.io/@nndkhoa9/web-online-academy)
 
 ## Clone về máy và chạy thử
 
